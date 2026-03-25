@@ -11,7 +11,6 @@ To write a C program to delete first element in an array.
 5. Print out the answer
 6. End.
 
-
 ## Program:
 ```
 program to delete first element in an array
